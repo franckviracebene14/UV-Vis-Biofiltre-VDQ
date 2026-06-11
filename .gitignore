@@ -1,0 +1,5 @@
+data/
+Données de VDQ/
+.venv/
+__pycache__/
+*.pyc
